@@ -2,5 +2,5 @@
 
 The following people have contributed to this project.
 
-* Mark Piper (ESPIn Instructor)
-* Meredith Leung (ESPIn Participant)
+* Mark Piper
+* Meredith Leung (likes ice cream)
